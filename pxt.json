@@ -1,0 +1,21 @@
+{
+    "name": "bilres3",
+    "version": "0.0.0",
+    "description": "",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "files": "https://github.com/Microsoft/pxt-filesystem.git"
+    },
+    "files": [
+        "README.md",
+        "extension.ts",
+        "shims.d.ts",
+        "enums.d.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false
+}
